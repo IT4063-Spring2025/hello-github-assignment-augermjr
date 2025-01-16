@@ -25,15 +25,15 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to operate some of the basic functions of Github, including cloning a repository, creating and editing a file, and committing and pushing changes to Github.
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with navigating some of the user interface in VSCode and linking VSCode to my Github account.
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
